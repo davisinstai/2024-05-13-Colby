@@ -286,7 +286,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to faculty and their students from across the state of Maine, as well as to researchers from across the state of Maine and to staff at Colby College.
 </p>
 {% endcomment %}
 
